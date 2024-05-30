@@ -1,2 +1,2 @@
 # asteroids_opengl
-asteroids_opengl with c
+basic asteroids game build in opengl with c
